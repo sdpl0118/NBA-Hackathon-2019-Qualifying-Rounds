@@ -1,4 +1,4 @@
-# NBA-Hackathon-2019-Qualifying-Rounds
+# NBA Hackathon Qualifiers 2019
 
 **Remarks**
 
